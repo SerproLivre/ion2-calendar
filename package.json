@@ -39,6 +39,7 @@
   "license": "MIT",
   "dependencies": {
     "moment": "^2.18.1",
-    "typescript": "2.0.9"
+    "typescript": "2.0.9",
+    "vanilla-masker": "^1.1.1"
   }
 }
